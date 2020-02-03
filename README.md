@@ -4,3 +4,5 @@ https://github.com/AlShawn/configurator-recommendation/blob/master/Experiments/E
 https://github.com/AlShawn/configurator-recommendation/blob/master/Experiments/Elmo/multitask_2.py
 https://github.com/AlShawn/configurator-recommendation/blob/master/Experiments/Elmo/multitask_train.py
 
+The data can be found from 
+https://github.com/yw57721/deeplearning/tree/master/nsrc/data
