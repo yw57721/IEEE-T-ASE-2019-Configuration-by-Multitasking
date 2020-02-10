@@ -1,4 +1,4 @@
-This project is to implement needs-based product configurator using ELMo and multitask learning. It can map customer needs in natural language to product specifications directly. 
+This page contains the code and data used in the paper, Configuration-based Smart Customization Service: A Multitask Learning Approach. This project is to implement needs-based product configurator using ELMo and multitask learning. It can map customer needs in natural language to product specifications directly. 
 
 The codes for this project can be found in the following link
 
