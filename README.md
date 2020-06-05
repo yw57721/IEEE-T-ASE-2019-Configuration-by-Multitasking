@@ -8,3 +8,7 @@ https://github.com/AlShawn/configurator-recommendation/blob/master/Experiments/E
 
 The data can be found from 
 https://github.com/yw57721/deeplearning/tree/master/nsrc/data
+
+Please cite our paper if you use the data or code
+
+Wang, Y., Li, X., & Tsung, F. (2020). Configuration-based Smart Customization Service: A Multitask Learning Approach. IEEE Transactions on Automation Science and Engineering, accepted, DOI: 10.1109/TASE.2020.2986774
